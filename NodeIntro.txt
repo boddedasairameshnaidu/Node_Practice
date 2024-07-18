@@ -1,0 +1,11 @@
+// Node ---- An asynchronous event driven js runtime, Node.js is designed to build scalable network applications
+// Runtime environment --- Node uses V8 engine from chromium, written in c and cpp
+// V8 engine --- It is a high performance JavaScript engine written in C++ and is used in
+//               Google Chrome, Node.js, and other applications. It implements ECMAScript as a
+//               scripting language. It compiles JavaScript directly to native machine code that runs
+//               alongside compiled C++ code. V8 implements ECMAScript as a scripting language.
+// Asynchronous ---- Js need not do every task sequentially 
+// Event driven ---- Node.js uses an event-driven, non-blocking I/O model that makes it lightweight
+//                   and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+
