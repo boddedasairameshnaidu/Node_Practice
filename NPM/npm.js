@@ -7,4 +7,14 @@
 //Initialize npm --- npm init
 
 // Install npm packages --- npm install <Something>
+// These packages are found in npm website
+// Eg: npm i sillyname
+
+// const sn = require('sillyname');
+// console.log(sn());
+import generateName from "sillyname";
+import {randomSuperhero} from 'superheroes';
+console.log(generateName());
+console.log(randomSuperhero());
+
 
